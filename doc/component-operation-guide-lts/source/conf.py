@@ -109,8 +109,8 @@ html_copy_source = False
 # -- Options for PDF output --------------------------------------------------
 latex_documents = [
     ('index',
-     'mrs-component-operation-guide-lts.tex',
-     u'MapReduce Service - Component Operation Guide (LTS)',
+     'mrs-operation-guide-lts.tex',
+    u'MapReduce Service - Component Operation Guide (LTS)',
      u'OpenTelekomCloud', 'manual'),
 ]
 

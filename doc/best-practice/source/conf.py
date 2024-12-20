@@ -110,7 +110,7 @@ html_copy_source = False
 latex_documents = [
     ('index',
      'mrs-best-practice.tex',
-     u'MapReduce Service - Best Practice',
+    u'MapReduce Service - Best Practice',
      u'OpenTelekomCloud', 'manual'),
 ]
 

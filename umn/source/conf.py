@@ -110,7 +110,7 @@ html_copy_source = False
 latex_documents = [
     ('index',
      'mrs-umn.tex',
-     u'MapReduce Service - User Guide',
+    u'MapReduce Service - User Guide',
      u'OpenTelekomCloud', 'manual'),
 ]
 

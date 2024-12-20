@@ -110,7 +110,7 @@ html_copy_source = False
 latex_documents = [
     ('index',
      'mrs-api-ref.tex',
-     u'MapReduce Service - API Reference',
+    u'MapReduce Service - API Reference',
      u'OpenTelekomCloud', 'manual'),
 ]
 
