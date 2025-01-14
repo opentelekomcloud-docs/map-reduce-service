@@ -8,6 +8,7 @@ MapReduce Service (MRS) provides enterprise-level big data clusters on the cloud
    :class: container-sbv
 
    .. service_card::
+      :environment: internal
       :service_type: mrs
       :umn: This document provides detailed operation guidance of MRS to help you learn and use MRS.
       :api-ref: This document introduces API reference provided by MRS and describes functions and parameters of each API.
